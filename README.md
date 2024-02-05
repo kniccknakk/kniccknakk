@@ -5,7 +5,14 @@
 - 📫 How to reach me: Pleas feel free to connect with me here on GitHub or reach out via email at na323@cornell.edu or cb21106@qmul.ac.uk 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: my fun fact is that in my free time, I enjoy the piano and to learn new languages (non-computing)
-- NOTES: if you are interested in viewing any of my projects, please let me know so I can share repo access with you -- branches are different projects, repos are different courses/broader topics for which these specific projects were created. 
+* Projects include:
+   * Numerous Python coding projects: recursion, looping, etc.
+   * Data Science projects: correlations, data quality, summary statistics, linear and non linear models, *data scraping*, stats tests, train-test-splits, A/B testing, data cleaning, probabilities/distributions (conditional, log-odds , text as data, and more!
+   * Game Theory: Simulated fictitious play in two games and a (quite) brief analysis
+   * Macro VBA projects to organize outlook inboxes
+   * numerous webdesign projects, using HTML, CSS, and Javascript 
+  
+- NOTES: if you are interested in viewing any of my projects, please let me know so I can share these with you -- branches are different projects, repos are different courses/broader topics for which these specific projects were created. These repos are private until further notice because despite being my creations, I don't want to violate any Cornell IP rules. Looking into this and hoping to publish as public archive so soon! 
 
 <!---
 kniccknakk/kniccknakk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
