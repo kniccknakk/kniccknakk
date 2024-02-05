@@ -5,6 +5,7 @@
 - 📫 How to reach me: Pleas feel free to connect with me here on GitHub or reach out via email at na323@cornell.edu or cb21106@qmul.ac.uk 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: my fun fact is that in my free time, I enjoy the piano and to learn new languages (non-computing)
+- NOTES: if you are interested in viewing any of my projects, please let me know so I can share repo access with you -- branches are different projects, repos are different courses/broader topics for which these specific projects were created. 
 
 <!---
 kniccknakk/kniccknakk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
