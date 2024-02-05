@@ -12,7 +12,7 @@
    * Macro VBA projects to organize outlook inboxes
    * numerous webdesign projects, using HTML, CSS, and Javascript 
   
-- NOTES: if you are interested in viewing any of my projects, these should now be available as archived public repos (I received permission from my university) -- branches are different projects, repos are different courses/broader topics for which these specific projects were created.
+- NOTES: if you are interested in viewing any of my projects, these should now be available as archived public/regular public repos (I received permission from my university) -- branches are different projects, repos are different courses/broader topics for which these specific projects were created.
 
 <!---
 kniccknakk/kniccknakk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
