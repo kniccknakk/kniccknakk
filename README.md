@@ -17,7 +17,8 @@ Check out my projects for practical insights into my learning journey. I've also
    * Data Science projects: correlations, data quality, summary statistics, linear and non linear models, *data scraping*, stats tests, train-test-splits, A/B testing, data cleaning, probabilities/distributions (conditional, log-odds , text as data, and more!
    * Game Theory: Simulated fictitious play in two games and a (quite) brief analysis
    * Macro VBA projects to organize outlook inboxes
-   * Various webdesign projects, using HTML, CSS, and Javascript 
+   * Various webdesign projects, using HTML, CSS, and Javascript
+   * Stata for econometric projects and labs: stats tests, data modeling, regression, and other applied econometric techniques
   
 - NOTES: if you are interested in viewing any of my projects, these should now be available as archived public/regular public repos (I received permission from my university) -- branches are different projects, repos are different courses/broader topics for which these specific projects were created.
 
