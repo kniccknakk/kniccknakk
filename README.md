@@ -3,6 +3,7 @@
    - My INFO 1300 experience introduced me to web development basics,
    - ORIE 4350 broadened my understandings of game theory.
    - CS 1110 equipped me with Python skills and foundational algorithms.
+   - ECON 3120, I learned econometric techniques, from regression models to instrumental variables, enhancing my skills in both statistcis and econometrics.
   
 Check out my projects for practical insights into my learning journey. I've also delved into Macro VBA, showcasing my curiosity. Join me as I navigate the intersections of coding, data science, and game theory. Let's explore together!
 - 👀 I’m interested in Exploring new coding challenges, data science applications, and game theory concepts. I have a keen interest in the intersections of technology and its diverse applications.
