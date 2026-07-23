@@ -10,7 +10,7 @@ Check out my projects for practical insights into my learning journey. I've also
 - 👀 I’m interested in Exploring new coding challenges, data science applications, and game theory concepts. I have a keen interest in the intersections of technology and its diverse applications.
 - 🌱 I’m currently learning about webscraping! Exploring the realm of web scraping and understanding its applications in improving the accessibility of information. Fascinated by the potential to extract valuable insights from diverse online sources.
 - 💞️ I’m looking to collaborate on projects related to coding, data science, and game theory. Whether it's enhancing algorithms, developing web applications, or diving into strategic game simulations, I'm open to collaborative opportunities.
-- 📫 How to reach me: Pleas feel free to connect with me here on GitHub or reach out via email at na323@cornell.edu or cb21106@qmul.ac.uk 
+- 📫 How to reach me: Please feel free to connect with me here on GitHub or reach out via email at na323@cornell.edu or cb21106@qmul.ac.uk 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: my fun fact is that in my free time, I enjoy the piano and to learn new languages (non-computing)
 * Projects include:
